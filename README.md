@@ -1,6 +1,6 @@
 # weekly-snippets
 
-週報[Issue](https://github.com/azu/weekly-snippets/issues)
+[週報Issue](https://github.com/azu/weekly-snippets/issues)
 
 ## Usage
 
