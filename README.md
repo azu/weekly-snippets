@@ -1,13 +1,15 @@
 # weekly-snippets
 
-[週報Issue](https://github.com/azu/weekly-snippets/issues)
+週報 Issue
+
+- https://github.com/azu/weekly-snippets/issues
 
 ## Usage
 
 1. 毎週、土曜日にIssueが立つ
 2. 先週(その日まで)やったこと、今週(その日以降)やること、雑記を書く
   - 箇条書きで問題ない
-3. 1へ、この時に先週のIssueをCloseし何を書いてたかをチラ見する
+3. 1へ :leftwards_arrow_with_hook: 、この時に先週のIssueをCloseし何を書いてたかをチラ見する
 
 ## Reference
 
